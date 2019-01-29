@@ -12,6 +12,6 @@
     "vuetify": "^1.4.3"
   },
   "peerDependencies": {
-    "vuetify-loader": "^1.1.1"
+    "vuetify-loader": "^1.2.0"
   }
 }
